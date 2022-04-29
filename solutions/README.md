@@ -1,6 +1,6 @@
 # This script is use to create a CCE cluster and install a add-on
 
-Before you using it, you should prepail your authorization information, includes `domain_name`, `access_key`, `secret_key` and `project_id`.
+Before using, you should prepare your authorization information in advance, including `domain_name`, `access_key`, `secret_key` and `project_id`.
 
 ## Component configuration
 
