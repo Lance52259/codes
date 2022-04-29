@@ -1,4 +1,4 @@
-# This script is use to create a CCE cluster and install a add-on
+# This script is use to create a CCE cluster and install an add-on
 
 Before using, you should prepare your authorization information in advance, including `domain_name`, `access_key`, `secret_key` and `project_id`.
 
@@ -14,3 +14,4 @@ Before using, you should prepare your authorization information in advance, incl
 
 * CCE add-on:
   + name: metrics-server
+  + version: 1.2.1
